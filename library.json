@@ -12,9 +12,8 @@
   "platforms": "espressif8266, espressif32",
   "dependencies": [
     {
-      "owner": "megunolink",
       "name": "MegunoLink",
-      "version": "^1.43b"
+      "version": "https://github.com/gagregrog/MLP.git"
     }
   ],
   "authors": [
